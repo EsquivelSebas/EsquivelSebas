@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sebastian Esquivel · `@EsquivelSebas`
+# Sebastian Esquivel Solis
 
 </div>
 
